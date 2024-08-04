@@ -2,10 +2,10 @@
 
 .texto{
    
-    font-size: 50px;
+    font-size: 45px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(253, 247, 247);
+    color: rgb(255, 252, 252);
 }
 .principal{
    display: flex;
@@ -13,22 +13,43 @@
 }
 body{
     background-image: url("fond.jpg");
-    background-repeat: no-repeat;
+    height: 2000px;
+    background-repeat: repeat
+    
 
 }
 
 .titulo{
 
     font-size: 60px;
-    color: rgb(245, 240, 240);
+    color: rgb(255, 255, 255);
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.americanas{
+    height: 355px;
+    width:  600px;
+    background-image: url("americanas.png");
+}
 
-.fond{
+.openyclosed{
     height: 300px;
-    width: 300px;
-    background-image: url("fonde.jpd.jpg");
-    background-repeat: no-repeat;
+    width: 600px;
+    background-image: url("openyclosed.webp");
+
+}
+
+.cortocircuitoo{
+    height: 300px;
+    width: 408px;
+    background-image: url("cortocircuitoo.webp");
+
+}
+
+.circuitoparalelo{
+    height: 422px;
+    width: 740px;
+    background-image: url("circuitoparalelo.png");
+
 }
