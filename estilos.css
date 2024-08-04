@@ -1,0 +1,34 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 50px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(253, 247, 247);
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("fond.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.titulo{
+
+    font-size: 60px;
+    color: rgb(245, 240, 240);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.fond{
+    height: 300px;
+    width: 300px;
+    background-image: url("fonde.jpd.jpg");
+    background-repeat: no-repeat;
+}
