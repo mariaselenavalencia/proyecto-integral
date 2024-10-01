@@ -1,4 +1,4 @@
-/* Temas del segundo período*/
+/* Temas del tercer período*/
 
 .texto{
    
@@ -27,45 +27,16 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.colonia{
-    height: 355px;
-    width:  600px;
-    background-image: url("colonia.png");
-}
-
-.openyclosed{
-    height: 300px;
-    width: 600px;
-    background-image: url("openyclosed.webp");
-
-}
-
-.cortocircuitoo{
+.funciones{
     height: 300px;
     width: 408px;
-    background-image: url("cortocircuitoo.webp");
-
-}
-
-.circuitoparalelo{
-    height: 422px;
-    width: 740px;
-    background-image: url("circuitoparalelo.png");
-
-}
-
-
-.funciones{
-    height: 422px;
-    width: 740px;
     background-image: url("funciones.png");
 
 }
 
-
 .funcionesbasicas{
-    height: 422px;
-    width: 740px;
+    height: 300px;
+    width: 408px;
     background-image: url("Funcionesbasicas.jpg");
 
 }
