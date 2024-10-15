@@ -69,3 +69,46 @@ body{
     background-image: url("Funcionesbasicas.jpg");
 
 }
+
+
+.avion1{
+    height: 422px;
+    width: 740px;
+    background-image: url("avion1.jpg");
+
+}
+
+.avion2{
+    height: 422px;
+    width: 740px;
+    background-image: url("avion2.jpg");
+
+}
+
+.basque{
+    height: 422px;
+    width: 740px;
+    background-image: url("basque.jpg");
+
+}
+
+.function{
+    height: 422px;
+    width: 740px;
+    background-image: url("function.jpg");
+
+}
+
+.image{
+    height: 422px;
+    width: 740px;
+    background-image: url("image.png");
+
+}
+
+.trabaj{
+    height: 422px;
+    width: 740px;
+    background-image: url("trabajo.jpg");
+
+}
