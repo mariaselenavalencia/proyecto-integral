@@ -42,30 +42,30 @@ body{
 }
 
 .function{
-    height: 300px;
-    width: 408px;
+    height: 200px;
+    width: 100px;
     background-image: url("Function.jpg");
 
 }
 
-.image{
-    height: 300px;
-    width: 408px;
-    background-image: url("image.png");
+.logo{
+    height: 800px;
+    width: 900px;
+    background-image: url("logo.jpg");
 
 }
 
 .trabaj{
-    height: 300px;
-    width: 408px;
+    height: 200px;
+    width: 100px;
     background-image: url("trabaj.jpg");
 
 }
 
-.basque{
-    height: 300px;
-    width: 408px;
-    background-image: url("basque.jpg");
+.basquebol{
+    height: 200px;
+    width: 100px;
+    background-image: url("basquebol.jpg");
 
 }
 
@@ -73,7 +73,7 @@ body{
 .avion1{
     height: 300px;
     width: 408px;
-    background-image: url("avion1.jpg");
+    background-image: url("avion1.n.jpg");
 
 }
 
